@@ -1,0 +1,16 @@
+airbnb
+.venv
+.env
+venv
+__pycache__/*
+*/__pycache__/*
+
+listings.csv
+reviews.csv
+.idea/*
+.idea
+
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
